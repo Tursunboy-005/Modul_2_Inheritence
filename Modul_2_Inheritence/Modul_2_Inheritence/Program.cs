@@ -10,6 +10,7 @@ namespace Modul_2_Inheritence
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
